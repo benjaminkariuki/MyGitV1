@@ -1,0 +1,12 @@
+# Ignore all .class files (compiled Java files)
+*.class
+
+# Ignore all .txt files
+*.txt
+
+# Optionally ignore log files and temporary files
+*.log
+*.tmp
+
+# Ignore the .mygit folder (if applicable)
+.mygit/
